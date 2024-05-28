@@ -1,4 +1,4 @@
-به نام خدا
+![Screenshot 2024-05-28 232745 png](https://github.com/amirt098/software-lab-az-6-note/assets/63345017/fb74f3c9-f2ad-465a-9278-7b6ea00fd7ac)به نام خدا
 
 # استقرار یک نرم‌افزار به کمک Docker
 
@@ -43,9 +43,13 @@
 ### تعامل با داکر
 کارهای زیر را انجام دهید:
 1. به کمک دستورهای مناسب، image‌ها و containerهای خود را نشان دهید و آن‌هایی که مربوط به این آزمایش هستند را مشخص کنید.
+![Screenshot 2024-05-28 232312 png](https://github.com/amirt098/software-lab-az-6-note/assets/63345017/77189c4f-3df9-4fd1-a07a-b7b02f8b9ce4)
+
+![Screenshot 2024-05-28 232745 png](https://github.com/amirt098/software-lab-az-6-note/assets/63345017/13f15feb-a855-4da5-aec6-473bbb28ea8a)
 
 
-2. دستوری دلخواه را در کانتینر وب‌سرور اجرا کنید. دستور مورد نظر و خروجی آن را در گزارش خود قرار دهید.
+
+3. دستوری دلخواه را در کانتینر وب‌سرور اجرا کنید. دستور مورد نظر و خروجی آن را در گزارش خود قرار دهید.
 
 ![Screenshot 2024-05-28 232745 png](https://github.com/amirt098/software-lab-az-6-note/assets/63345017/d1a3845a-6a4e-4725-9f21-563a158c5552)
 
