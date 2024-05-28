@@ -47,7 +47,8 @@
 
 2. دستوری دلخواه را در کانتینر وب‌سرور اجرا کنید. دستور مورد نظر و خروجی آن را در گزارش خود قرار دهید.
 
-   ![Uploading image.png…]()
+![Screenshot 2024-05-28 232745 png](https://github.com/amirt098/software-lab-az-6-note/assets/63345017/d1a3845a-6a4e-4725-9f21-563a158c5552)
+
 
 
 
