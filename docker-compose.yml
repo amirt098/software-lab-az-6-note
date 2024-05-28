@@ -3,7 +3,9 @@ version: '3'
 services:
   web:
     build: .
-    command: python manage.py runserver 0.0.0.0:8000
+    image: backend:latest
+    entrypoint: python3 manage.py
+    command: runserver 0.0.0.0:8000
     volumes:
       - .:/app
     ports:
@@ -19,6 +21,8 @@ services:
       POSTGRES_DB: DB
     volumes:
       - db-data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
 
 volumes:
   db-data:
